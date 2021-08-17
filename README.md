@@ -22,3 +22,7 @@ NOTE: The "ignored_extensions" list should contain the extension of incomplete d
 ## Authors
 
 - [@geogrigor](https://www.github.com/geogrigor)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
