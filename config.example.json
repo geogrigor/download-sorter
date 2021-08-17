@@ -1,0 +1,59 @@
+{
+  "directory": "",
+  "delete_weekolds": true,
+  "folder_file_map": {
+    "media": [
+      ".png",
+      ".jpg",
+      ".jpeg",
+      ".gif",
+      ".svg"
+    ],
+    "documents": [
+      ".docx",
+      ".doc",
+      ".txt",
+      ".xlsx",
+      ".pdf"
+    ],
+    "code": [
+      ".html",
+      ".py",
+      ".js",
+      ".gulp",
+      ".css",
+      ".cpp",
+      ".c++",
+      ".c",
+      ".sql",
+      ".dockerfile",
+      ".jsx",
+      ".ipynb",
+      ".md",
+      ".markdown",
+      ".wsgi",
+      ".scss",
+      ".bash",
+      ".zsh",
+      ".tsx",
+      ".ts"
+    ],
+    "data": [
+      ".json",
+      ".xml",
+      ".csv",
+      ".tsv",
+      ".dump",
+      ".yml",
+      ".yaml",
+      ".sqlite",
+      ".lock"
+    ]
+  },
+  "ignored_extensions": [
+    ".crdownload",
+    ".download",
+    ".part",
+    ".tmp"
+  ]
+}
