@@ -3,7 +3,7 @@ import datetime
 import shutil
 
 
-class FolderSorter:
+class DownloadSorter:
     def __init__(self, directory, folder_file_map, delete_weekolds, ignored_extensions):
         self.directory = directory
         self.folder_file_map = folder_file_map
