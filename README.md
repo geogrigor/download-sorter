@@ -6,7 +6,7 @@ Download sorter is a simple python tool that sorts your download folder by weekd
 
 The tool should be run periodically as a cron job.
 
-Create a config.json file in the root directory of this tool and user config.example.json as a template.
+Create a config.json file in the root directory of this tool and use config.example.json as a template.
 Sorting by weekday is based on the day that a file or folder is sorted rather than the date of creation.
 Sorting by type is based on file extensions
 
